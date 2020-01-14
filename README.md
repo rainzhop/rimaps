@@ -27,7 +27,7 @@
 
 ### 结果
 
-<img src="./src/line-rv.jpg" alt="line-rv" style="zoom:50%;" />
+<img src="./src/line-rv.jpg" alt="line-rv" width="300" />
 
 ## 2.2 例2
 
@@ -41,13 +41,13 @@
 
 ### 结果
 
-<img src="./src/ex2-rv.jpg" alt="ex2-rv" style="zoom:50%;" />
+<img src="./src/ex2-rv.jpg" alt="ex2-rv" width="300" />
 
 ## 2.3 例3
 
 ### 原图
 
-<img src="./src/ex3.png" alt="ex3" style="zoom: 50%;" />
+<img src="./src/ex3.png" alt="ex3" width="300" />
 
 ### 各角度平均功率谱
 
@@ -55,7 +55,7 @@
 
 ### 结果
 
-<img src="./src/ex3-rv.jpg" alt="ex3-rv" style="zoom:50%;" />
+<img src="./src/ex3-rv.jpg" alt="ex3-rv" width="300" />
 
 # 3 总结
 
